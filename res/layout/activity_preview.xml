@@ -17,9 +17,10 @@
         android:showDividers="beginning" >
 
         <LinearLayout
-            style="?android:attr/buttonBarStyle"
+            style="@color/Black"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_weight="10.56"
             android:measureWithLargestChild="true"
             android:orientation="horizontal" >
 
